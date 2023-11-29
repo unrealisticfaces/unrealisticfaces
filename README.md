@@ -18,7 +18,6 @@
 
 - [ProjectX](https://www.mediafire.com/file/8ovyviaasfhupoz/LUMETRI_PROJECT.rar/file) -  Superlite version
 - [Lumetri Projectx](https://www.mediafire.com/file/8ovyviaasfhupoz/LUMETRI_PROJECT.rar/file) -  Lite version
-- [Windows11](https://drive.google.com/file/d/1cWaIpfdtOt9tJUfHCWa9FehfmXcGMdED/view?usp=sharing) - Lite version
 
 ## Free
  - [ProjectX-Free](https://github.com/unrealisticfacess/ProjectX-Free) - toolkit to create automatically a shared folder to drive C which can be also access using ip address
