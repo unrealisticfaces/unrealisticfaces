@@ -7,7 +7,7 @@
 ## PROJECTS
 
 - [Game Menu](https://www.facebook.com/kthdavidx/posts/pfbid02RsvfnYiSidJTzND2rdmYJbAVrDBFPN5TqMzJXLwLznpptRVzpH3A5MFDHWCX5K4bl) - this help users to organize desktop apps
-- [DCC](https://github.com/unrealisticfaces/ProjectX-DCC) - a camera height changer for dot@2
+- [Dot@2 Camera Changer](https://github.com/unrealisticfaces/ProjectX-DCC) - a camera height changer for dot@2
 - [Year End Edition](https://github.com/unrealisticfaces/projectx-yearendedition) - Good for traditional setup who use Oprekin / Ghost Spectre
 
 
