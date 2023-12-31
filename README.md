@@ -11,7 +11,7 @@
 
 ## Operating System
 
-#### Modded Windows for advanced user only, dont expect all feature are here or function will working as normal, you should know what "modded" means
+#### Modded Windows for advanced user only, dont expect all features are here or function will working as normal, you should know what "modded" means
 
 - [ProjectX](https://www.mediafire.com/file/8ovyviaasfhupoz/LUMETRI_PROJECT.rar/file) -  Superlite version
 - [Lumetri Projectx](https://www.mediafire.com/file/8ovyviaasfhupoz/LUMETRI_PROJECT.rar/file) -  Lite version
